@@ -1,2 +1,9 @@
 # server-configuration
-server configuration management 
+
+This package assists in loading and parsing
+nginx configuration 
+
+## Usage
+
+
+## License
