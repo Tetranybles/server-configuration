@@ -1,0 +1,21 @@
+{
+    "name": "tetranybles/server-configuration",
+    "description": "a server block management",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tetranybles\\ServerConfiguration\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leonard Ugbanawaji Ekenekiso",
+            "email": "senenerst@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpunit/phpunit": "9.5.20"
+    }
+}
